@@ -63,6 +63,9 @@ int main() {
   Marine marine2(3, 5, 10);
   marine2.show_status();
 
+
+
+
   create_marine();
 
   std::cout << std::endl << "마린 1 이 마린 2 를 공격! " << std::endl;
